@@ -9,11 +9,11 @@
 ---
 ## 📊 GitHub Stats
 
-![Maikon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mago-cmd&show_icons=true&theme=radical)
+![Maikon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mago-cmd&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mago-cmd&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mago-cmd&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mago-cmd&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mago-cmd&theme=tokyonight)
 
 ---
 
