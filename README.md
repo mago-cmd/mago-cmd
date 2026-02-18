@@ -1,6 +1,6 @@
 # Hi 👋, I'm Maikon Ferreira
 
-**Junior Software Developer | Python & Java**
+** Software Developer | Python & Java**
 
 📍 Belo Horizonte – Brazil  
 📧 maikonbf80@gmail.com  
