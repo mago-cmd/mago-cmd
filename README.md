@@ -9,11 +9,11 @@
 ---
 ## 📊 GitHub Stats
 
-![Maikon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mago-cmd&show_icons=true&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mago-cmd&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mago-cmd&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mago-cmd&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mago-cmd&theme=dracula)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mago-cmd&layout=compact&theme=dracula)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mago-cmd&theme=dracula)
 
 ---
 
